@@ -1,0 +1,21 @@
+[{
+  "name": "Eya",
+  "belt": "Green",
+  "available": true,
+  "thumb": "content/img/1.png"
+}, {
+  "name": "Taieb",
+  "belt": "Blue",
+  "available": true,
+  "thumb": "content/img/6.png"
+}, {
+  "name": "Yobo",
+  "belt": "Brown",
+  "available": true,
+  "thumb": "content/img/3.png"
+}, {
+  "name": "AYA",
+  "belt": "Red",
+  "available": true,
+  "thumb": "content/img/5.png"
+}]
